@@ -4,21 +4,17 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Scarlet-X
+kernel.string=Lain
 kernel.compiler=Neutron Clang 16
-kernel.made=Tashar
-message.word=Thank you for installing Scarlet-X
+kernel.made=L1sa-f
+message.word=Thank you for installing Lain
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=lavender
-device.name2=tulip
-device.name3=jasmine_sprout
-device.name4=wayne
-device.name5=whyred
-supported.versions=9 - 13
+supported.versions=12 - 13
 supported.patchlevels=
 '; } # end properties
 
