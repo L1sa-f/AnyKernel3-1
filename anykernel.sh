@@ -5,7 +5,7 @@
 # begin properties
 properties() { '
 kernel.string=Lain
-kernel.compiler=Neutron Clang 16
+kernel.compiler=Neutron Clang 17
 kernel.made=L1sa-f
 message.word=Thank you for installing Lain
 do.devicecheck=1
